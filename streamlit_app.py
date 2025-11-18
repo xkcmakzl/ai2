@@ -1,4 +1,4 @@
-# streamlit_py
+# streamlit_app.py
 import os, re
 from io import BytesIO
 import numpy as np
